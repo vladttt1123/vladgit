@@ -1,6 +1,6 @@
 fwf123
 
+commit test1
 
 456w
-this is message for myself
-MY FINAL MESSAGE
+

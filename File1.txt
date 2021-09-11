@@ -1,3 +1,6 @@
+BASH2
+new update1
+
 new testing line
 
 fwf123

@@ -1,6 +1,7 @@
 new testing line
 
 fwf123
+new testing line
 
 commit test1
 
